@@ -1,7 +1,13 @@
 # Numlock-Indicator
-A simple numlock indicator for Windows.
+A simple numlock indicator for Windows. Doesn't require installation.
+
 The only thing I changed is an icon – instead of Google Calc icon there is simple dot, showing NumLock button status.
 
+I recommend putting executable in preffered directoty and adding it to startup.
+
+How to make NumPadIndicator startup on launch:
+1. Press Win + R and type shell:startup
+2. Put a shortcut of the program to the opened directory.
 
 # Icon
 Green dot means Numlock is on, white – off
