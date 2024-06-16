@@ -4,9 +4,9 @@ The only thing I changed is an icon – instead of Google Calc icon there is sim
 
 
 # Icon
-<img src="https://raw.githubusercontent.com/Myron472/Numlock-Indicator-Dot-Icon/master/images/on.png"/>
-<img src="https://raw.githubusercontent.com/Myron472/Numlock-Indicator-Dot-Icon/master/images/off.png"/>
-Green dot means Numlock is on, white – off.
+Green dot means Numlock is on, white – off
+
+<img src="https://raw.githubusercontent.com/Myron472/Numlock-Indicator-Dot-Icon/master/images/on.png"/> <img src="https://raw.githubusercontent.com/Myron472/Numlock-Indicator-Dot-Icon/master/images/off.png"/>
 
 # Misc
 If you want to suggest any idea to the project go to the original author's [project page](https://github.com/determ1ne/Numlock-Indicator). 
