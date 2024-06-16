@@ -1,7 +1,7 @@
 # Numlock-Indicator-Dot-Icon
 A simple numlock indicator for Windows. Doesn't require installation.
 
-The only thing I changed is an icon – instead of Google Calc icon there is simple dot, showing NumLock button status.
+The only thing I changed is an icon – instead of calculator icon there is simple dot, showing NumLock button status.
 
 I recommend putting executable in preffered directoty and adding it to startup.
 
