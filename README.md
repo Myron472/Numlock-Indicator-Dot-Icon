@@ -12,7 +12,7 @@ Green dot means Numlock is on, white – off.
 
 <img src="https://raw.githubusercontent.com/Myron472/Numlock-Indicator-Dot-Icon/master/images/on.png"/> <img src="https://raw.githubusercontent.com/Myron472/Numlock-Indicator-Dot-Icon/master/images/off.png"/>
 
-For your convinience I put SVG and AFDESIGN icon files into **/icon** directory in case if you want to modify my icon.
+I also put SVG and AFDESIGN icon files into **/icon** directory in case if you want to modify my icon.
 
 # Misc
 If you want another icon in program you can go to the original author's [project page](https://github.com/determ1ne/Numlock-Indicator) and fork it. To build application  you will need to install [Masm32 Assembler SDK](masm32.com).
