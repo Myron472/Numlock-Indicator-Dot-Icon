@@ -15,8 +15,4 @@ Green dot means Numlock is on, white – off.
 For your convinience I put SVG and AFDESIGN icon files into **/icon** directory in case if you want to modify my icon.
 
 # Misc
-If you want to fork repository to, for example, change icon (as i did) you can make a new discussion submitting your icon. In that case I'll make new repository with all suggested icons.
-Or you can go to the original author's [project page](https://github.com/determ1ne/Numlock-Indicator) and fork it. 
-In that case you would have to install [Masm32 Assembler SDK](masm32.com).
-
-If you want to suggest any idea to the project go to the original author's [project page](https://github.com/determ1ne/Numlock-Indicator). 
+If you want another icon in program you can go to the original author's [project page](https://github.com/determ1ne/Numlock-Indicator) and fork it. To build application  you will need to install [Masm32 Assembler SDK](masm32.com).
